@@ -1,5 +1,5 @@
 
-#SkillCraftTechonology
+#SkillCraftTechnology
 
 **Caesar Cipher Program**
 
