@@ -1,5 +1,3 @@
-Here’s an updated version of the README with properly formatted code blocks:
-
 Caesar Cipher Program
 
 This program implements a Caesar Cipher, which is a type of substitution cipher where each letter in the plaintext is shifted by a certain number of positions down or up the alphabet.
@@ -49,4 +47,3 @@ How to Run
 
 3.	Follow the on-screen instructions to enter the message, shift value, and desired operation (encrypt or decrypt).
 
-This README now includes proper code block formatting for easier readability.
